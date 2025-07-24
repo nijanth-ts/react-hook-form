@@ -27,7 +27,7 @@ const CreateAccount = () => {
         alignItems: 'center',
         gap: '20px',
         width: '500px',
-        padding: '10px'
+        padding: '25px'
     }
     const handleData = (data) => {
         console.log('data:', data);
